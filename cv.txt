@@ -1,0 +1,144 @@
+Tomás Bazán Luengo
+Desarrollador Full Stack | MERN Stack, Django & SQL | Servidores Linux
+tomas.bazan.l@gmail.com
+
++56965676386
+
+Región Metropolitana, Chile
+
+Tomás Bazán
+
+tromvn
+
+PERFIL PROFESIONAL
+Desarrollador Full Stack MERN con formación intensiva en Generation Chile y 8+ años de experiencia en
+Linux. Especializado en JavaScript (ES6+), React, Node.js, Express.js, MongoDB y SQL. Competente en
+administración de servidores Linux, Docker y metodologías Agile/Scrum. Busco profundizar en backend y
+transicionar hacia DevOps. Comunicativo, adaptable y orientado a soluciones eficientes en equipos
+colaborativos.
+
+HABILIDADES TÉCNICAS
+Lenguajes
+JavaScript (ES6+), HTML5, CSS3, Python, TypeScript
+
+Frontend
+React.js, Bootstrap
+
+Backend
+Node.js, Express.js, NestJS, Django
+
+Bases de Datos
+MongoDB, PostgreSQL, MySQL
+
+DevOps & Servidores
+Linux (8+ years of experience), Nginx, SSH, Samba,
+Docker
+
+Herramientas y Control de Versiones
+Git, GitHub, VS Code, Nano, Vim, Jira, Bash
+
+Metodologías
+Agile/Scrum
+
+EXPERIENCIA LABORAL
+CEO/Fundador
+Descimentación
+Emprendimiento en diseño y manufactura de productos textiles innovadores.
+Desarrollé soluciones creativas que incrementaron durabilidad hasta 5x versus
+productos retail similares. Investigué técnicas avanzadas de encuadernación y
+reparación de libros, gestionando relaciones con clientes y proveedores en todas las
+etapas del negocio. Experiencia demostrando capacidad de visión estratégica,
+ejecución e iteración continua.
+
+10/2021 – 10/2025
+Santiago, Chile
+
+Terapeuta Alternativo
+Masoterapia
+Planifiqué y ejecuté tratamientos personalizados mejorando experiencia del
+paciente. Desarrollé comunicación efectiva con clientes, generando espacios
+humanos y seguros. Experiencia que fortaleció empatía, escucha activa y gestión de
+relaciones interpersonales.
+
+12/2015 – 02/2020
+Santiago, Chile
+
+PROYECTOS
+Ragnarok API - Sistema de Gestión de Datos con Integración Externa
+Proyecto de autodidacta (en progreso)
+API REST para gestión de información de videojuegos con integración a APIs
+públicas. Sistema escalable con arquitectura modular y operaciones CRUD
+avanzadas.
+Desarrollé API con NestJS y TypeScript aplicando principios SOLID. - Implementé
+importación automatizada desde API externa con manejo de errores y
+validaciones.
+Diseñé schemas MongoDB con Mongoose para persistencia de datos. - Creé script
+de carga masiva configurable para importación de +50 registros.
+Documenté proyecto con README técnico completo y ejemplos de uso.
+Tecnologías: NestJS, TypeScript, MongoDB, Mongoose, Axios, Docker.
+•
+
+•
+
+•
+
+•
+
+11/2025 – Present
+
+QuieroMiBeca - Aplicación Web de Becas y Oportunidades Formativas
+Proyecto integrador de Generation Chile
+Aplicación web que centraliza información sobre becas y oportunidades de
+formación, alineado con ODS 10 (Reducción de desigualdades).
+Lideré diseño y arquitectura del proyecto desde conceptualización hasta
+implementación.
+Migré vistas a React mejorando componentización e interactividad.
+Gestioné equipo en metodología Scrum delegando funciones estratégicamente.
+Tecnologías: MERN Stack (MongoDB, Express.js, React, Node.js), Bootstrap, Git.
+
+09/2025 – 10/2025
+
+•
+
+•
+
+•
+
+•
+
+EDUCACIÓN
+Introducción a la Programación & MySQL
+Accenture
+
+10/2025 – Present
+E-Learning
+
+Containerization and Virtualization Concepts & Introduction to Docker
+DataCamp
+
+10/2025 – 11/2025
+E-Learning
+
+Bootcamp Desarrollador Full Stack JavaScript
+Generation Chile
+482 horas de formación intensiva. Especialización en MERN Stack (MongoDB,
+Express.js, React, Node.js).
+
+07/2025 – 10/2025
+Santiago, Chile
+
+Plan Común Ingeniería Civil
+Universidad de Santiago de Chile
+
+2013 – 2014
+Santiago, Chile
+
+LANGUAGES
+Español
+Francés
+
+Inglés
+C1 EF Set
+Esperanto
+
+
