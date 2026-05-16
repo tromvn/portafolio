@@ -14,8 +14,8 @@ const Footer: React.FC = () => {
             className="text-gray-400 hover:text-white transition-colors"
             aria-label="LinkedIn"
           >
-            <svg className="w-6 h-6" fill="currentColor">
-              <use href="/public/sprite.svg#linkedin" />
+            <svg className="w-6 h-6 text-inherit" fill="currentColor">
+              <use href="/sprite.svg#linkedin" />
             </svg>
           </a>
           <a
@@ -23,8 +23,8 @@ const Footer: React.FC = () => {
             className="text-gray-400 hover:text-white transition-colors"
             aria-label="GitHub"
           >
-            <svg className="w-6 h-6" fill="currentColor">
-              <use href="/public/sprite.svg#github" />
+            <svg className="w-6 h-6 text-inherit" fill="currentColor">
+              <use href="/sprite.svg#github" />
             </svg>
           </a>
         </div>
@@ -34,4 +34,3 @@ const Footer: React.FC = () => {
 };
 
 export default Footer;
-`
