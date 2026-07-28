@@ -51,3 +51,5 @@ Thumbs.db
 # Archivos de configuración de npm/yarn
 package-lock.json
 yarn.lock
+
+AGENTS.md
